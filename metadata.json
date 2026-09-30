@@ -1,0 +1,6 @@
+{
+  "name": "Nova Strike - Retro Space Shooter",
+  "description": "A retro 2D arcade space shooter with glowing vector graphics, alien waves, boss battles, synth audio, and particle explosions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
